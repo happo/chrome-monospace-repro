@@ -11,7 +11,7 @@ monospace text, when a previous element has been larger than the viewport
 
 Given this html:
 ```html
-<pre>Hello</pre>
+<pre>Hello world</pre>
 ```
 If we take a screenshot directly of this element, it looks like this:
 ![d11fcc1bfd92edcb41fa9009eb86f509.png](d11fcc1bfd92edcb41fa9009eb86f509.png)
