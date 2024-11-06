@@ -1,0 +1,22 @@
+{
+  "name": "chrome-spurious-repro",
+  "version": "1.0.0",
+  "description": "An attempt at creating a repro case for the spurious image diffs we're seeing in Chrome for monospace elements in Happo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happo/chrome-monospace-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happo/chrome-monospace-repro/issues"
+  },
+  "homepage": "https://github.com/happo/chrome-monospace-repro#readme",
+  "dependencies": {
+    "playwright": "^1.48.2"
+  }
+}
